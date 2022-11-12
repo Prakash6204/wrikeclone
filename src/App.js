@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App">
       <Navbar screenWidth={screenWidth} />
-      {/* <AllRoutes screenWidth={screenWidth} /> */}
+      <AllRoutes screenWidth={screenWidth} />
       <Footer screenWidth={screenWidth} />
     </div>
   );
